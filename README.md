@@ -4,3 +4,5 @@
 ## 2nd step - initial ERD and database design - due 23:59/23/2/2022
 ### doc version: DAMG6210_Team10_FinalProject/P2. Initial ERD and Database Design.docx
 ### pdf version: DAMG6210_Team10_FinalProject/P2. Initial ERD and Database Design.pdf
+## 3rd step - final ERD and changes description - due 23:59/16/3/2022
+### doc version: DAMG6210_Team10_FinalProject/P2. Initial ERD and Database Design.docx
