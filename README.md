@@ -22,3 +22,4 @@
 ### 8. Column Data Encryption: P4. Database Implementation/Final_Encryption.sql
 ### 9. at least 3 non-clustered indexes: P4. Database Implementation/Final_Nonclustered_Index.sql
 ### 10. Power BI /Tableau for data visualization: P4. Database Implementation/Final_DataVisualization.zip
+## 5th step - presentation - due 18:00/4/5/2022
